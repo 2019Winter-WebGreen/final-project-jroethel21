@@ -1,0 +1,89 @@
+/* Name: Jaclyn Roethel
+*  Date: 
+*  */
+
+*  {
+	margin: 0px;
+	padding: 0;
+}
+
+
+
+body {
+	background-color: lightblue;
+	width: ;
+	padding: 8px;
+}
+
+
+header {
+	border: 4px solid red;
+	text-align: center;
+	width: 460px;
+	padding: 12px;
+	margin-left: auto;
+	margin-right: auto;
+}
+	
+.bolder {
+	font-weight: 999;
+}
+
+.wider {
+	margin-bottom: 25px;
+}
+	
+main {
+	text-align: center;
+	margin: 15px auto;
+	border: 7px solid black;
+	width: 800px;
+}
+
+#A1 {
+	width: 300px;
+	float: left;
+	text-align: center;
+	border: 5px solid black;
+}
+
+#P1 {
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+}
+
+#P2 {
+	width: 140px;
+	height: 140px;
+}
+
+#P4 {
+	padding: 10px;
+	width: 60%;
+	height: 60%;
+}
+
+#P5 {
+	width: 80%;
+	height: 80%;
+	padding: 20px;
+}
+
+p {
+	margin: 2%;
+}
+
+#A2 {
+	width: 300px;
+	float: right;
+	border: 5px solid black;
+	text-align: center;
+}
+
+
+footer {
+	text-align: center;
+	border-top: 4px solid black;
+}
+
